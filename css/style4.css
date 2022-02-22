@@ -1,0 +1,21 @@
+aside{
+    width: 60%px;
+    height: 500px;
+    background-color: white;
+    float: left;
+}
+iframe[name=page]{
+    width: 100%;
+    min-height: 500px;
+}
+article{
+    width: 70%;
+    height: 500px;
+    background-color: white;
+    box-shadow: 0 0 5px gray;
+    margin: 5px;
+    float: left;
+}
+.gg{
+    list-style-type: none;
+}

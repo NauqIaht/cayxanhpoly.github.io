@@ -1,0 +1,14 @@
+.fon{
+    font-size: 30px;
+    background-color: skyblue;
+    
+}
+table{
+    border-color: white;
+    border-collapse: collapse;
+}
+.text{
+    color: blue;
+    text-align: justify;
+    list-style-type: none;
+}

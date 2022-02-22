@@ -1,0 +1,29 @@
+.col-25{
+    width: 24%;
+    float: left;   
+}
+.product{
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    text-align: center;
+    padding: 5px;
+    position: relative;
+}
+.product > .name{
+    font-size: 25px;
+    color: orange;
+    
+}
+.product > .price{
+    font-size: 30px;
+    font-family: Impact;
+    color: orange;
+    left: 5px;
+    bottom: 5px;
+    position: absolute;
+}
+.product > .image{
+    max-width: 98%;
+    height: 150px;
+    margin-bottom: 10px;
+}
